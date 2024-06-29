@@ -14,7 +14,7 @@ Go to the end_to_end_testing folder
 cd end_to_end_testing/my-app
 
 ## Commands to run: 
-git checkout app_end_to_end_testing
+git checkout app-end-to-end-testing
 npm install
 npm run dev
 
